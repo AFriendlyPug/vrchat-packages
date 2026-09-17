@@ -27,6 +27,7 @@ namespace FolderTools
 ""Extras""
 -""Animations""
 -""Accessories""
+-""Hairs""
 -""Clothes""
 -""Textures""
 -""Other""";
