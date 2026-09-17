@@ -1,0 +1,20 @@
+{
+  "name": "AFriendlyPug Packages",
+  "id": "com.afriendlypug.folder-structure-creator.listing",
+  "url": "https://afriendlypug.github.io/vrchat-packages/index.json",
+  "description": "VPM packages by AFriendlyPug",
+  "author": {
+    "name": "afriendlypug",
+    "url": "https://github.com/afriendlypug",
+    "email": ""
+  },
+  "infoLink": {
+    "text": "View on GitHub",
+    "url": "https://github.com/AFriendlyPug/vrchat-packages"
+  },
+  "bannerUrl": "banner.png",
+  "githubRepos": [
+    "AFriendlyPug/vrchat-packages"
+  ],
+  "packages": []
+}
